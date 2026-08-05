@@ -1,6 +1,6 @@
 ## Sobre o projeto
 
-A base de dados da Olist foi escolhida para compor este projeto por apresentar informações variadas sobre um ambiente real de comércio eletrônico, permitindo explorar diferentes perspectivas de negócio e consolidar os conhecimentos adquiridos ao longo da minha formação como Analista de Dados.
+A base de dados da Olist [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce] foi escolhida para compor este projeto por apresentar informações variadas sobre um ambiente real de comércio eletrônico, permitindo explorar diferentes perspectivas de negócio e consolidar os conhecimentos adquiridos ao longo da minha formação como Analista de Dados.
 
 O principal objetivo deste projeto é aplicar e aprimorar as ferramentas consideradas essenciais neste primeiro momento da minha jornada: **SQL, Python, Excel e Power BI**, utilizando os dados como base para análises, geração de indicadores e desenvolvimento de soluções orientadas a negócios.
 
