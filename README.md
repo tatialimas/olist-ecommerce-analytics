@@ -1,4 +1,4 @@
-# Sobre o projeto
+## Sobre o projeto
 
 A base de dados da Olist foi escolhida para compor este projeto por apresentar informações variadas sobre um ambiente real de comércio eletrônico, permitindo explorar diferentes perspectivas de negócio e consolidar os conhecimentos adquiridos ao longo da minha formação como Analista de Dados.
 
@@ -32,3 +32,48 @@ Além do desenvolvimento técnico, este projeto também tem como objetivo aprimo
   * **Marketing:** explorar comportamento dos clientes e oportunidades de segmentação.
 * Praticar a formulação de perguntas de negócio e a apresentação de resultados por meio de storytelling com dados.
 * Consolidar conhecimentos técnicos e construir um projeto de portfólio em Análise de Dados.
+
+## Perguntas de Negócio
+
+Durante o desenvolvimento do projeto, serão exploradas perguntas de negócio relacionadas às principais áreas de um e-commerce, buscando transformar dados em informações úteis para apoiar a tomada de decisão.
+
+### 1. Vendas e Performance Comercial
+
+* Qual é o faturamento total da empresa?
+* Como as vendas evoluem ao longo do tempo?
+* Quais categorias de produtos possuem maior volume de vendas e maior faturamento?
+* Quais estados e cidades apresentam maior desempenho comercial?
+* Qual é o ticket médio dos pedidos?
+* Quais formas de pagamento são mais utilizadas pelos clientes?
+* Existe algum padrão de comportamento nas compras dos consumidores?
+
+### 2. Logística e Operações
+
+* Qual é o tempo médio entre a compra e a entrega do pedido?
+* Quais regiões apresentam melhores e piores tempos de entrega?
+* Qual percentual de pedidos foi entregue dentro do prazo?
+* Quais fatores podem estar relacionados aos atrasos?
+* O desempenho logístico influencia a avaliação dos clientes?
+
+### 3. Satisfação do Cliente
+
+* Qual é a avaliação média dos clientes?
+* Quais categorias possuem melhores e piores avaliações?
+* Existe relação entre atraso na entrega e notas de avaliação?
+* Quais características dos pedidos podem influenciar a satisfação do cliente?
+
+### 4. Clientes e Comportamento de Compra
+
+* Qual é o perfil dos clientes da plataforma?
+* Quais regiões concentram maior número de consumidores?
+* Existem clientes recorrentes ou a maioria realiza apenas uma compra?
+* Quais padrões de compra podem ser identificados?
+
+### 5. Marketing e Oportunidades de Negócio
+
+* Quais categorias apresentam maior potencial de crescimento?
+* Existem segmentos de clientes que podem ser explorados em campanhas futuras?
+* Quais informações podem apoiar estratégias de relacionamento e fidelização?
+
+O objetivo dessas análises é desenvolver uma visão orientada a dados, conectando indicadores, comportamento dos clientes e processos operacionais para gerar insights relevantes para o negócio.
+
