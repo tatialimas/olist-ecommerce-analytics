@@ -77,3 +77,13 @@ Durante o desenvolvimento do projeto, serão exploradas perguntas de negócio re
 
 O objetivo dessas análises é desenvolver uma visão orientada a dados, conectando indicadores, comportamento dos clientes e processos operacionais para gerar insights relevantes para o negócio.
 
+## Tecnologia
+- Excel
+- PostgreSQL
+- SQL
+- Python
+- Pandas
+- Matplotlib
+- Power BI
+- Git
+- GitHub
