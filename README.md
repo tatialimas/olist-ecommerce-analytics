@@ -1,5 +1,4 @@
 # Sobre o projeto
-## 📖 Sobre o Projeto
 
 A base de dados da Olist foi escolhida para compor este projeto por apresentar informações variadas sobre um ambiente real de comércio eletrônico, permitindo explorar diferentes perspectivas de negócio e consolidar os conhecimentos adquiridos ao longo da minha formação como Analista de Dados.
 
