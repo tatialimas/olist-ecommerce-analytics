@@ -79,11 +79,25 @@ O objetivo dessas análises é desenvolver uma visão orientada a dados, conecta
 
 ## Tecnologia
 - Excel
-- PostgreSQL
 - SQL
 - Python
-- Pandas
-- Matplotlib
 - Power BI
 - Git
 - GitHub
+
+## 🚀 Roadmap
+
+- [ ] Exploração dos dados
+- [ ] Análise exploratória (EDA)
+- [ ] Consultas SQL
+- [ ] Dashboard em Excel
+- [ ] ETL com Python
+- [ ] Dashboard em Power BI
+- [ ] Geração de Insights
+- [ ] Documentação completa
+
+---
+
+## 📈 Próximos Passos
+
+Este projeto será desenvolvido de forma incremental. Novas análises, dashboards e funcionalidades serão adicionados à medida que novas técnicas e ferramentas forem sendo estudadas.
